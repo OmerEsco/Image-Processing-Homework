@@ -14,18 +14,22 @@
 
 ### Highlights
 
-<img src="Highlights/hw1_equalization.png" width="390" height="275" />
+<p align="center">
 
-<img src="Highlights/hw2_wormhole.png" width="390" height="275" />
+<img src="Highlights/hw1_equalization.png" height="275" />
 
-<img src="Highlights/hw3_gaussian_and_bilateral_filters.png" width="390" height="200" />
+<img src="Highlights/hw2_wormhole.png" height="275" />
 
-<img src="Highlights/hw4_clean_me.png" width="390" height="275" />
+<img src="Highlights/hw4_clean_me.png" height="275" />
 
-<img src="Highlights/hw4_motion_blur.png" width="390" height="275" />
+<img src="Highlights/hw4_motion_blur.png" height="275" />
 
-<img src="Highlights/hw4_frequency_spike.png" width="390" height="275" />
+<img src="Highlights/hw4_frequency_spike.png" height="275" />
 
-<img src="Highlights/hw5_hough_circles.png" width="390" height="200" />
+<img src="Highlights/hw5_edge_detection.png" height="275" />
 
-<img src="Highlights/hw5_edge_detection.png" width="390" height="275" />
+<img src="Highlights/hw3_gaussian_and_bilateral_filters.png" height="375" />
+
+<img src="Highlights/hw5_hough_circles.png" height="375" />
+
+</p>
