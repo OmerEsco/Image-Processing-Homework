@@ -28,8 +28,8 @@
 
 <img src="Highlights/hw5_edge_detection.png" height="275" />
 
-<img src="Highlights/hw3_gaussian_and_bilateral_filters.png" height="375" />
+<img src="Highlights/hw3_gaussian_and_bilateral_filters.png" height="374" />
 
-<img src="Highlights/hw5_hough_circles.png" height="375" />
+<img src="Highlights/hw5_hough_circles.png" height="374" />
 
 </p>
