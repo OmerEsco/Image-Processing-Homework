@@ -10,10 +10,10 @@
 
 <p align="center">
 
-<img src="/Highlights/hw4_clean_me.png" width="600" />
+<img src="/Highlights/hw4_clean_me.png" width="900" />
 
-<img src="/Highlights/hw4_frequency_spike.png" width="600" />
+<img src="/Highlights/hw4_frequency_spike.png" width="900" />
 
-<img src="/Highlights/hw4_motion_blur.png" width="600" />
+<img src="/Highlights/hw4_motion_blur.png" width="900" />
 
 </p>
