@@ -11,6 +11,6 @@
 
 <p align="center">
 
-<img src="/Highlights/hw3_gaussian_and_bilateral_filters.png" width="600" />
+<img src="/Highlights/hw3_gaussian_and_bilateral_filters.png" width="900" />
 
 </p>
