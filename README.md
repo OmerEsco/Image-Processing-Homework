@@ -1,8 +1,10 @@
 # Image-Processing-Homework
 
-## A repo for Omer Escojido and Avishay Oz to do image processing homework
+## A repository for Omer Escojido and Avishay Oz to do image processing homework - Semester A 2022, University of Haifa
 
 ### Submission Summary
+
+Implemented in Python using Numpy, Matplotlib and OpenCV.
 
 | Homework                                                | Deadline       | Done  | Grade |
 | :---                                                    | :---:          | :---: | :---: |
@@ -13,6 +15,8 @@
 | Homework 5 (Last) - Edge Detection/Hough Transform      | 22.1.2023      | ✅   | 100   |
 
 ### Highlights
+
+Here are a few examples of results from our subbmissions:
 
 <p align="center">
 
