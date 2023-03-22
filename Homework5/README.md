@@ -11,8 +11,8 @@
 
 <p align="center">
 
-<img src="Highlights/hw5_edge_detection.png" width="600" />
+<img src="/Highlights/hw5_edge_detection.png" width="600" />
 
-<img src="Highlights/hw5_hough_circles.png" width="600" />
+<img src="/Highlights/hw5_hough_circles.png" width="600" />
 
 </p>
